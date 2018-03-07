@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gghggghghghghgh   <rui>
+=======
+ikidkjd djd hugo
+>>>>>>> cd3d23604a8dceb697048d6695cf74997aa56463
